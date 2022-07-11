@@ -1,2 +1,4 @@
 # Astronalta
-Desenho de astronalta feito 100% em CSS
+Desenho de astronalta feito em HTML e CSS.
+
+
